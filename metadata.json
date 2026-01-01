@@ -1,0 +1,5 @@
+{
+  "name": "GS-LP IA",
+  "description": "Um gerador de Landing Pages inteligente utilizando Gemini API, Tailwind e GSAP.",
+  "requestFramePermissions": []
+}
