@@ -60,6 +60,13 @@ npm run preview
 
 ---
 
+## 🚀 Deploy
+
+
+https://github.com/user-attachments/assets/4dcd6a1d-8775-43a2-8f73-64c6647998aa
+
+
+
 ## 🔒 Configurações de API
 
 > :warning: **Atenção:** para usar integrações GenAI (ex.: Google Gemini) você precisa configurar suas credenciais/keys. Verifique `services/geminiService.ts` para detalhes sobre como fornecer sua chave de API (variáveis de ambiente, arquivo `.env`, etc.).
